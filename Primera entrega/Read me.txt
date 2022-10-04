@@ -1,0 +1,1 @@
+La idea de esta base de datos es sobre un proyecto que estoy trabajando en JS que es sobre un e-commerce de venta de celulares
